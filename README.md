@@ -19,7 +19,7 @@
 
 I connect business and technology. I work as a **Technical Support Specialist at CaixaBank**, handling large corporate client incidents and requests in **Salesforce**, and I build, test and deploy my own web products on infrastructure I run myself.
 
-- **CRM & SAP** — Salesforce day to day · SAP CX Master · SAP Certified Associate (Customer Data Platform) · SAP ABAP (160 h)
+- **CRM & SAP** — Salesforce day to day · SAP CX Master · SAP Certified – Implementation Consultant, Customer Data Platform (2024) · SAP ABAP (160 h)
 - **Web development** — PHP, Laravel, JavaScript, SQL, REST APIs
 - **QA** — functional & exploratory testing (iOS Beta Tester at Symmetry, 2026) · Playwright + TypeScript
 - **Infrastructure** — Linux server running 40 Docker containers in production
