@@ -22,7 +22,7 @@ I connect business and technology. I work as a **Technical Support Specialist at
 - **CRM & SAP** — Salesforce day to day · SAP CX Master · SAP Certified Associate (Customer Data Platform) · SAP ABAP (160 h)
 - **Web development** — PHP, Laravel, JavaScript, SQL, REST APIs
 - **QA** — functional & exploratory testing (iOS Beta Tester at Symmetry, 2026) · Playwright + TypeScript
-- **Infrastructure** — Linux server running 40 Docker containers in production
+- **Infrastructure** — Home Linux server (Intel N100, Ubuntu 24.04 LTS) running about 55 Docker containers: my products, a client site, storage, monitoring and daily backups
 
 ---
 
@@ -32,7 +32,7 @@ I connect business and technology. I work as a **Technical Support Specialist at
 |---------|---------------|
 | [**CerCar**](https://cercar.odev.es) · [case study](https://portfolio.odev.es/tema/cercar) | Own product in public beta: vehicle history and maintenance. Product, full stack, QA and deployment. |
 | [**qa-cercar-smoke**](https://github.com/Oscar-Odev/qa-cercar-smoke) | Playwright + TypeScript smoke and API regression suite for CerCar. |
-| [**homelab-showcase**](https://github.com/Oscar-Odev/homelab-showcase) · [overview](https://portfolio.odev.es/lab) | Self-hosted architecture: Cloudflare → TLS reverse proxy → Docker, data, automation, monitoring. No secrets. |
+| [**homelab-showcase**](https://github.com/Oscar-Odev/homelab-showcase) · [overview](https://portfolio.odev.es/lab) | Self-hosted architecture: Cloudflare Tunnel → Nginx Proxy Manager → Docker, data, monitoring, daily and encrypted off-site backups, dated change log. No secrets. |
 | [**Odev Studio**](https://odevstudio.odev.es) | My digital agency: custom WordPress sites and local SEO. |
 | [**Dunia Lobera Tattoo**](https://dunia-lobera.odev.es) | Client website with a custom WordPress theme. |
 
