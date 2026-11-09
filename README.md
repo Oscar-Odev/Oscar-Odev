@@ -20,10 +20,10 @@
 
 I connect business and technology. I work as a **Technical Support Specialist at CaixaBank**, handling large corporate client incidents and requests in **Salesforce**, and I build, test and deploy my own web products on infrastructure I run myself.
 
-- **CRM & SAP** — Salesforce day to day · SAP CX Master · SAP Certified Associate (Customer Data Platform) · SAP ABAP (160 h)
+- **CRM & SAP** — Salesforce day to day · SAP CX Master · SAP Certified – Implementation Consultant, Customer Data Platform (2024) · SAP ABAP (160 h)
 - **Web development** — PHP, Laravel, JavaScript, SQL, REST APIs
 - **QA** — functional & exploratory testing (iOS Beta Tester at Symmetry, 2026) · Playwright + TypeScript
-- **Infrastructure** — Linux server running about 50 Docker containers
+- **Infrastructure** — Home Linux server (Intel N100, Ubuntu 24.04 LTS) running about 55 Docker containers: my products, a client site, storage, monitoring and daily backups
 
 ---
 
@@ -31,10 +31,10 @@ I connect business and technology. I work as a **Technical Support Specialist at
 
 | Project | What it shows |
 |---------|---------------|
-| [**CerCar**](https://cercar.es) · [case study](https://portfolio.odev.es/tema/cercar) | Own product in public beta: vehicle history, car events and fleets. TypeScript (Next.js + NestJS), PostgreSQL, Stripe. Product, full stack, QA and deployment. |
+| [**CerCar**](https://cercar.es) · [case study](https://portfolio.odev.es/tema/cercar) | Own product in public beta: vehicle history, car events and fleets. TypeScript (Next.js + NestJS), PostgreSQL. Product, full stack, QA and deployment. |
 | [**qa-cercar-smoke**](https://github.com/Oscar-Odev/qa-cercar-smoke) | Playwright + TypeScript smoke and API regression suite for CerCar. |
-| [**homelab-showcase**](https://github.com/Oscar-Odev/homelab-showcase) · [overview](https://portfolio.odev.es/lab) | Self-hosted architecture: Cloudflare → TLS reverse proxy → Docker, data, automation, monitoring. No secrets. |
-| [**Odev Studio**](https://odev.es) | My web studio in Zaragoza: custom websites and web apps, local SEO, photography and maintenance. |
+| [**homelab-showcase**](https://github.com/Oscar-Odev/homelab-showcase) · [overview](https://portfolio.odev.es/lab) | Self-hosted architecture: Cloudflare Tunnel → Nginx Proxy Manager → Docker, data, monitoring, daily and encrypted off-site backups, dated change log. No secrets. |
+| [**Odev Studio**](https://odev.es) | My marketing, web design and app agency in Zaragoza: custom websites and web apps, local SEO and maintenance. |
 | [**Dunia Lobera Tattoo**](https://dunia-lobera.odev.es) | Client website: custom WordPress theme, brand identity and an easy editing panel. |
 
 ---
