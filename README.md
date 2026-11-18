@@ -36,7 +36,6 @@ Hoy llevo **Odev Studio**, mi agencia de marketing con soluciones web: hago webs
 | [**Fábrica de webs con IA**](https://github.com/Oscar-Odev/fabrica-webs-ia) | Cinco agentes de IA preparan una web de demostración por negocio, con comprobación automática y revisión humana. |
 | [**homelab-showcase**](https://github.com/Oscar-Odev/homelab-showcase) | Mi servidor: Cloudflare Tunnel, proxy, Docker, monitorización y copias cifradas fuera de casa. Sin secretos. |
 | [**CerCar**](https://cercar.es) | Mi aplicación web en beta pública: avisos de ITV y mantenimiento e historial del coche. Next.js, NestJS y PostgreSQL. |
-| [**qa-cercar-smoke**](https://github.com/Oscar-Odev/qa-cercar-smoke) | Pruebas de humo y de API de CerCar con Playwright y TypeScript. |
 | [**Odev Studio**](https://odev.es) | Mi agencia en Zaragoza: webs a medida, SEO local, automatizaciones y mantenimiento. |
 
 ---
